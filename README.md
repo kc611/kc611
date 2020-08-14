@@ -1,5 +1,5 @@
 # Hi there, I'm Kaustubh 👋
-
+Find Me:
 <a href="https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,7 +15,7 @@
 <div>
  <p>
 
-I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading.
+I am 20 years old and I major in Computer Science at Indian Institue of Information Technology, Gwalior. I aspire to become an accomplished Developer and build my own softwares one day. I am deeply intrested in Python programming Frameworks and Data Science.
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
@@ -36,11 +36,3 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
