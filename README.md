@@ -32,8 +32,9 @@ I am always on the lookout for new projects to work on and new people to collabo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=chatbuddy)](https://github.com/kc611/https://github.com/kc611/chatbuddy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=Online-Compiler)](https://github.com/kc611/Online-Compiler)
 
-<br />
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&line_height=30)
+<br>
+
+![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true)
 
 
 
