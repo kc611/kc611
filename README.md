@@ -34,7 +34,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 <br>
 
-![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true)
+![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true&theme=radical)
 
 
 
