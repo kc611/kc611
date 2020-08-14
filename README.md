@@ -29,7 +29,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 <div><p>The projects I am currently working on: </p></div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=URL-Shortener)](https://github.com/kc611/URL-Shortener)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=chatbuddy)](https://github.com/kc611/https://github.com/kc611/chatbuddy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=chatbuddy)](https://github.com/kc611/chatbuddy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=Online-Compiler)](https://github.com/kc611/Online-Compiler)
 
 <br>
