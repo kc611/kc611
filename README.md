@@ -18,7 +18,7 @@ Find Me:
 <div>
  <p>
 
-I am 20 years old and I major in Computer Science at Indian Institue of Information Technology, Gwalior. I aspire to become an accomplished Developer and build my own softwares one day. I am deeply intrested in Python programming Frameworks and Data Science.
+I am 20 years old and I major in Computer Science at Indian Institute of Information Technology, Gwalior. I aspire to become an accomplished Developer and build my own softwares one day. I am deeply intrested in Python programming Frameworks and Data Science.
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
