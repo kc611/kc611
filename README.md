@@ -25,9 +25,11 @@
 ### How to reach me📫:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/)](https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/)
-[![Gmail Badge](https://img.shields.io/badge/-ckaustubhm06@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ckaustubhm06@gmail.com)](mailto:ckaustubhm06@gmail.com) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-blue?style=plastic&labelColor=f94877&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kaustubhchaudhari)](https://www.kaggle.com/kaustubhchaudhari)
-[![Codechef Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-ff0000?style=plastic&labelColor=ff0000&logo=codechef&logoColor=white&link=https://www.codechef.com/users/ckaustubhm06)](https://www.codechef.com/users/ckaustubhm06)
+[![Gmail Badge](https://img.shields.io/badge/-ckaustubhm06@gmail.com-#d54b3d?style=plastic&logo=Gmail&logoColor=white&link=mailto:ckaustubhm06@gmail.com)](mailto:ckaustubhm06@gmail.com) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-blue?style=plastic&labelColor=blue&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kaustubhchaudhari)](https://www.kaggle.com/kaustubhchaudhari)
+[![Codechef Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-
+#63361a?style=plastic&labelColor=
+#63361a&logo=codechef&logoColor=white&link=https://www.codechef.com/users/ckaustubhm06)](https://www.codechef.com/users/ckaustubhm06)
 
 
 
