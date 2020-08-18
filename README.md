@@ -6,7 +6,7 @@
 - ⚙️ Frameworks I'm working on :- Django REST, Flask, Docker, Kubernetes.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
-     Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+###### Do check out my repositories and feel free to reach out if you'd like to collaborate.
 
 ### Take a look at some of my LIVE Projects
 
@@ -23,22 +23,12 @@
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true&theme=radical)
 
 ### How to reach me📫:
-<br>
-<br>
-<a href="https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.codechef.com/users/ckaustubhm06">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.kaggle.com/kaustubhchaudhari">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
-<br>
-<br>
 
-<div>
- <p>
+[![Linkedin Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/)](https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/)
+[![Gmail Badge](https://img.shields.io/badge/-ckaustubhm06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckaustubhm06@gmail.com)](mailto:ckaustubhm06@gmail.com) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-e4405f?style=flat-square&labelColor=f94877&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kaustubhchaudhari)](https://www.kaggle.com/kaustubhchaudhari)
+[![Codechef Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-ff0000?style=flat-square&labelColor=ff0000&logo=quora&logoColor=white&link=https://www.codechef.com/users/ckaustubhm06)](https://www.codechef.com/users/ckaustubhm06)
+
 
 
 
