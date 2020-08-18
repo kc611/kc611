@@ -1,27 +1,28 @@
 # Hi there, I'm Kaustubh 👋
 
-### About Me
-I am 20 years old and I major in Computer Science at Indian Institute of Information Technology, Gwalior. I aspire to become an accomplished Developer and build my own softwares one day. I am deeply intrested in Python programming Frameworks and Data Science.
+- 🔭 Currently working on Django development, Python Frameworks and REST API building.
+- 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
+- 💻 Codes in Python, Java, C/C++ and Flutter.
+- ⚙️ Frameworks I'm working on :- Django REST, Flask, Docker, Kubernetes.
+- 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+     Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
-</h4>
-</div>
+### Take a look at some of my LIVE Projects
 
-<br />
+- [URL Shortening Service](https://quick-url-shortener.herokuapp.com/)
+- [ML-Based Face Verification API](https://github.com/kc611/Face-Verify-API/blob/master/Interactive%20Demo.ipynb)
 
-<div><p>The projects I am currently working on: </p></div>
-
+### Projects I am currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=URL-Shortener)](https://github.com/kc611/URL-Shortener)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=chatbuddy)](https://github.com/kc611/chatbuddy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=Online-Compiler)](https://github.com/kc611/Online-Compiler)
 
-<br>
 
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true&theme=radical)
 
-### Find Me:
+### How to reach me📫:
 <br>
 <br>
 <a href="https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/">
