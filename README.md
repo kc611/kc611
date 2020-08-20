@@ -1,7 +1,5 @@
 <h1 align="center"># Hi there, I'm Kaustubh 👋</h1>
 
-<h3 align="center">A passionate Software Developer, currently interested in Django, Cloud Deployment and Machine Learning</h3>
-
 - 🔭 Currently working on Django development, Python Frameworks and REST API building.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
 - 💻 Codes in Python, Java, C/C++ and Flutter.
@@ -22,12 +20,7 @@
 
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true&theme=radical)
 
-### How to reach me📫:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/)](https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/)
-[![Gmail Badge](https://img.shields.io/badge/-ckaustubhm06@gmail.com-d54b3d?style=plastic&logo=Gmail&logoColor=white&link=mailto:ckaustubhm06@gmail.com)](mailto:ckaustubhm06@gmail.com) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-blue?style=plastic&labelColor=blue&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kaustubhchaudhari)](https://www.kaggle.com/kaustubhchaudhari)
-[![Codechef Badge](https://img.shields.io/badge/-Kaustubh%20Chaudhari-brown?style=plastic&labelColor=63361a&logo=codechef&logoColor=white&link=https://www.codechef.com/users/ckaustubhm06)](https://www.codechef.com/users/ckaustubhm06)
+### Find me online on:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kaustubh-chaudhari-763a26193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaustubhchaudhari" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
