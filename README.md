@@ -1,4 +1,4 @@
-<h1 align="center"># Hi there, I'm Kaustubh 👋</h1>
+<h1 align="center">Hi there, I'm Kaustubh 👋</h1>
 
 - 🔭 Currently working on Django development, Python Frameworks and REST API building.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
