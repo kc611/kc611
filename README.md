@@ -8,11 +8,6 @@
 
 ###### Do check out my repositories and feel free to reach out if you'd like to collaborate.
 
-### Take a look at some of my LIVE Projects
-
-- [URL Shortening Service](https://quick-url-shortener.herokuapp.com/)
-- [ML-Based Face Verification API](https://github.com/kc611/Face-Verify-API/blob/master/Interactive%20Demo.ipynb)
-
 ### Projects I am currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=URL-Shortener)](https://github.com/kc611/URL-Shortener)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kc611&repo=chatbuddy)](https://github.com/kc611/chatbuddy)
