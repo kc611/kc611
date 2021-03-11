@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Kaustubh 👋</h1>
 
-- 🔭 Currently working on Django development, Python Frameworks and REST API building.
+- 🔭 Currently working on Python projects and REST API building.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
 - 💻 Codes in Python, Java, C/C++ and Flutter.
-- ⚙️ Frameworks I'm working on :- Django REST, Flask, Docker, Kubernetes.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
 ###### Do check out my repositories and feel free to reach out if you'd like to collaborate.
