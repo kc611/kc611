@@ -5,7 +5,7 @@
 - 💻 Codes in Python, Java, C/C++ and Flutter.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
-###### Do check out my repositories and feel free to reach out if you'd like to collaborate.
+#### Do check out my website at https://kc611.github.io/ and feel free to reach out if you'd like to collaborate/work along.
 
 ### Find me online on:
 
