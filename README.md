@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kaustubh 👋</h1>
 
-- 🔭 Currently working on Python projects and REST API building.
+- 🔭 Currently working with <a href="https://github.com/pymc-devs" >PyMC</a> folks to build the new v4 version <a href="https://summerofcode.withgoogle.com/projects/#5999639913824256">as a part of Google Summer of Code 2021.</a> 
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
 - 💻 Codes in Python, Java, C/C++ and Flutter.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
