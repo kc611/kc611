@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kaustubh 👋</h1>
 
-- 🔭 Currently involved with <a href="https://github.com/pymc-devs" >PyMC</a> folks to build the new v4 version of PyMC3 and <a href="https://github.com/aesara-devs" >Aesara</a> folks to help improve <a href="https://github.com/aesara-devs/aeppl" >a[e]ppl</a>
+- 🔭 Currently involved with <a href="https://github.com/pymc-devs" >PyMC</a> folks to build the new v4 version of PyMC3 and with <a href="https://github.com/aesara-devs" >Aesara</a> folks to help improve <a href="https://github.com/aesara-devs/aeppl" >a[e]ppl</a>
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
 - 💻 Codes in Python, Java, C/C++ and Dart (Flutter).
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
