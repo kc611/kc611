@@ -5,7 +5,7 @@
 - 💻 Codes in Python, Java, C/C++ and Dart (Flutter).
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
-#### Do check out my website at https://kc611.github.io/ and feel free to reach out if you'd like to collaborate/work along.
+<h4 align="center"> To know more about me and my projects, do check out my website at https://kc611.github.io/ </h4>
 
 ### Find me online on:
 
