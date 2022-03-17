@@ -2,7 +2,7 @@
 
 - 🔭 Currently involved with <a href="https://github.com/aesara-devs" >Aesara</a> folks.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
-- 💻 Codes in Python, JavaScript, C/C++ and Dart (Flutter).
+- 💻 Codes in Python, C/C++ and Go.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
 <h4 align="center"> To know more about me and my projects, do check out my website at https://kc611.github.io/ </h4>
