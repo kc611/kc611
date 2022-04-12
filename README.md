@@ -28,6 +28,19 @@ I'm an **Undergraduate Student 👨🏽‍💼** majoring in Computer Science at
 [<code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>](https://colab.research.google.com/)
 <br>
 
+
+
+
+
+
+### My Github Stats 👀:
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true&hide_border=true">
+</p>
+
+<br>
+
 ### Find me online on:
 
 <p align="center">
@@ -38,13 +51,3 @@ I'm an **Undergraduate Student 👨🏽‍💼** majoring in Computer Science at
 <a href="https://twitter.com/_kc611_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="kaustubhchaudhari" height="30" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-
-<br>
-
-### 👀 My Github Stats:
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true&hide_border=true">
-</p>
-
