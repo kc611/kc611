@@ -42,6 +42,7 @@ I'm an **Undergraduate Student 👨🏽‍💼** majoring in Computer Science at
 
 <br>
 
+### 👀 My Github Stats:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kc611&show_icons=true&hide_border=true">
