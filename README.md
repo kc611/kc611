@@ -20,12 +20,12 @@ I'm an **Undergraduate Student 👨🏽‍💼** majoring in Computer Science at
 [<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>](https://www.python.org/)
 [<code><img height="50" src="https://aws1.discourse-cdn.com/free1/uploads/numba/original/1X/ea903b618c746c0959bd154f9f6acb5f0ca1b52e.png"></code>](https://github.com/numba/numba)
 [<code><img height="50" src="https://llvm.org/img/DragonMedium.png"></code>](https://llvm.org/)
+[<code><img height="40" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png"></code>](https://github.com/google/jax)
 [<code><img height="50" src="https://avatars.githubusercontent.com/u/84473952?s=200&v=4"></code>](https://github.com/aesara-devs/aesara)
 [<code><img height="50" src="https://avatars.githubusercontent.com/u/81121?s=200&v=4"></code>](https://github.com/pymc-devs/pymc)
 [<code><img height="50" src="https://avatars.githubusercontent.com/u/260832?s=200&v=4"></code>](https://github.com/sympy/sympy)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>](https://www.tensorflow.org/)
 [<code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>](https://colab.research.google.com/)
-
 <br>
 
 ### Find me online on:
