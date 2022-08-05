@@ -5,13 +5,13 @@
 I'm an **Undergraduate Student 👨🏽‍💼** majoring in Computer Science at [Indian Institute of Information Technology, Gwalior, India](https://www.iiitm.ac.in/index.php/en/). A short description about me: 
 - 🔭 Currently working on the [Numba](https://github.com/numba/numba) project under [Anaconda](https://www.anaconda.com/). 
 - 📈 Previously worked upon many open source projects like [PyMC](https://github.com/pymc-devs/pymc), [Aesara](https://github.com/aesara-devs/aesara) and [SymPy](https://github.com/sympy/sympy). 
-- 🤹🏽 My work mainly revolves around making your Python code run faster. Streamlining functions, providing regular updates/upgrades to your codebases and making sure you have the right execution backend. 
-- 📖 I was a Google Summer of Code (GSoC '21) student developer under [NumFOCUS](https://numfocus.org/) organization on the [PyMC](https://github.com/pymc-devs/pymc) project.
+- 📖 I was also a Google Summer of Code (GSoC '21) student developer under [NumFOCUS](https://numfocus.org/) organization on the [PyMC](https://github.com/pymc-devs/pymc) project.
+- 🤹🏽 My work mainly revolves around making your Python code run faster. Streamlining functions and providing regular upgrades to your codebases. 
 - 🎛 I am also a huge admirer of Artificial Intelligence and have recently finished writing my first **[Research Paper](https://arxiv.org/abs/2010.05243) in Natural Language Processing.**
 - 💻 I code primarily in Python, C/C++ and Go.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with. Simply mail me at: <ckaustubhm06@gmail.com>;
 
-<h4 align="center"> To know more about me and what I actually do, check out my website at https://kc611.github.io/ </h4>
+<h4 align="center"> To know more about me and what I do, check out some of my <a href="https://medium.com/@ckaustubhm06/">Medium</a> Articles.</h4>
 
 ### Technologies that I'm familiar with:
 
