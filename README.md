@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=kc611)
 
 I'm an **Undergraduate Student 👨🏽‍💼** majoring in Computer Science at [Indian Institute of Information Technology, Gwalior, India](https://www.iiitm.ac.in/index.php/en/). A short description about me: 
-- 🔭 Currently working on the [Numba](https://github.com/numba/numba) project under [Anaconda](https://www.anaconda.com/). 
+- 🔭 Currently working on the [Numba](https://github.com/numba/numba) project as a part of [Anaconda](https://www.anaconda.com/)'s team. 
 - 📈 Previously worked upon many open source projects like [PyMC](https://github.com/pymc-devs/pymc), [Aesara](https://github.com/aesara-devs/aesara) and [SymPy](https://github.com/sympy/sympy). 
 - 📖 I was also a Google Summer of Code (GSoC '21) student developer under [NumFOCUS](https://numfocus.org/) organization on the [PyMC](https://github.com/pymc-devs/pymc) project.
 - 🤹🏽 My work mainly revolves around making your Python code run faster. Streamlining functions and providing regular upgrades to your codebases. 
