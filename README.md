@@ -18,7 +18,7 @@ I'm an **Undergraduate Student 👨🏽‍💼** majoring in Computer Science at
 [<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>](https://www.python.org/)
-[<code><img height="50" src="https://aws1.discourse-cdn.com/free1/uploads/numba/original/1X/ea903b618c746c0959bd154f9f6acb5f0ca1b52e.png"></code>](https://github.com/numba/numba)
+[<code><img height="50" src="https://avatars.githubusercontent.com/u/1628082?s=200&v=4"></code>](https://github.com/numba/numba)
 [<code><img height="50" src="https://llvm.org/img/DragonMedium.png"></code>](https://llvm.org/)
 [<code><img height="40" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png"></code>](https://github.com/google/jax)
 [<code><img height="50" src="https://avatars.githubusercontent.com/u/84473952?s=200&v=4"></code>](https://github.com/aesara-devs/aesara)
